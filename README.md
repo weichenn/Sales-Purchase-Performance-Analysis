@@ -10,4 +10,4 @@ The data set provided can be categorized into **two categories** which are purch
 ## Software used
 Tableau desktop
 
-📙 This code is only for assignent purpose, not for bussiness use.
+📙 This is only for assignment purpose, not for business use.
